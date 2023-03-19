@@ -1,0 +1,60 @@
+html {
+  width: 50vw;
+  height: 70vh;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  box-sizing: initial;
+  box-shadow: 4px 3px 5px 5px rgb(227, 227, 242) ;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+  /* border-bottom: none; */
+}
+body {
+  width: 50vw;
+  height: 70vh;
+  margin: 0 auto;
+  font-family: Arial, Helvetica, sans-serif;
+  justify-content: center;
+  align-items: center;
+  /* box-sizing: 14px 14px 14px 14px;
+    box-shadow: 1px 1px 1px 1px; */
+}
+
+.container {
+  width: 400px;
+}
+h1 {
+  margin-left: 22rem;
+}
+
+#inputField {
+  width: 300px;
+  height: 46px;
+  border: 1px solid black;
+  outline: none;
+  font-size: 25px;
+  vertical-align: middle;
+  margin-left: 17rem;
+}
+
+#addToDo {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  vertical-align: middle;
+  font-size: 30px;
+  margin-left: 37rem;
+  margin-top: -4.4rem;
+  cursor: pointer;
+}
+
+.to-dos {
+  margin-top: 25px;
+}
+.paragraph-styling {
+  margin: 0;
+  margin-left: 18rem;
+  cursor: pointer;
+  font-size: 20px;
+}
